@@ -3,6 +3,7 @@ song = "";
 function preload()
 {
 	song = loadSound("music.mp3");
+	song = loadSound("music2.mp3");
 }
 
 
